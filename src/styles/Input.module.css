@@ -1,0 +1,21 @@
+.input {
+  flex: 1;
+  font-family: OpenSans;
+  font-size: 16px;
+  line-height: 1.375;
+  color: #333;
+  margin: 0;
+  padding: 8px 10px;
+  border: 0.5px solid #333;
+  width: 100%;
+}
+
+.input::placeholder {
+  font-style: italic;
+  color: #999;
+}
+
+.input:disabled {
+  background: #e6e6e6;
+  color: #727272;
+}

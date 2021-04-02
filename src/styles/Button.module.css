@@ -1,0 +1,14 @@
+button.button {
+  min-width: 100px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 2px;
+  background: #0192d3;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
